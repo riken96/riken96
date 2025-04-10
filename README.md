@@ -10,7 +10,9 @@
 
 - 🌱 I’m currently learning **Unity XR Interactions**
 
-- 📫 How to reach me **rikensonani96@gmail.com**
+- 📫 Check out my portfolio [(https://rikenfree.github.io/projects.html](https://rikenfree.github.io/projects.html)
+
+- 📫 Check out my Experience [([https://rikenfree.github.io/projects.html](https://riken96.github.io/)
 
 - 📄 Know about my experiences [https://www.upwork.com/freelancers/rikensonani2](https://www.upwork.com/freelancers/rikensonani2)
 
