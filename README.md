@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Unity XR Interactions**
 
-- 📫 Check out my portfolio [(https://rikenfree.github.io/projects.html](https://rikenfree.github.io/projects.html)
+- 📫 Check out my portfolio [https://rikenfree.github.io/projects.html](https://rikenfree.github.io/projects.html)
 
 - 📫 Check out my Experience [https://rikenfree.github.io/projects.html](https://riken96.github.io/)
 
