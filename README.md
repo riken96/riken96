@@ -12,7 +12,7 @@
 
 - 📫 Check out my portfolio [https://rikensonani.com/projects.html](https://rikensonani.com/projects.html)
 
-- 📫 Check out my Experience  [https://rikensonani.com](https://rikensonani.com))
+- 📫 Check out my Experience  [https://rikensonani.com](https://rikensonani.com)
 
 - 📄 Know about my experiences [https://www.upwork.com/freelancers/rikensonani2](https://www.upwork.com/freelancers/rikensonani2)
 
