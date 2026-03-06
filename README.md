@@ -8,7 +8,6 @@
   <a href="https://rikensonani.com"><img src="https://img.shields.io/badge/Portfolio-rikensonani.com-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.upwork.com/freelancers/rikensonani2"><img src="https://img.shields.io/badge/Upwork-Top_Rated_Plus-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Top Rated Plus" /></a>
   <a href="https://www.linkedin.com/in/rikensonani"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:rikensonani@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p><em>Expert Unity game developer with 8+ years of experience building high-performance mobile games, AR/VR experiences, and multiplayer platforms. Trusted by 100+ global clients with a perfect job success score on Upwork.</em></p>
@@ -208,10 +207,8 @@ Whether you're a startup founder with a game concept, a studio looking for a rel
 <p>
   <a href="https://rikensonani.com"><img src="https://img.shields.io/badge/🌐_Portfolio-rikensonani.com-FF6B35?style=for-the-badge" alt="Portfolio" /></a>
   <a href="https://www.upwork.com/freelancers/rikensonani2"><img src="https://img.shields.io/badge/💼_Hire_Me-Upwork-14A800?style=for-the-badge" alt="Upwork" /></a>
-  <a href="https://calendly.com/rikensonani"><img src="https://img.shields.io/badge/📅_Book_a_Call-Calendly-006BFF?style=for-the-badge" alt="Book a Call" /></a>
 </p>
 
-**📧 Email:** rikensonani@gmail.com  
 **🌐 Website:** [rikensonani.com](https://rikensonani.com)  
 **💼 Upwork:** [upwork.com/freelancers/rikensonani2](https://www.upwork.com/freelancers/rikensonani2)
 
